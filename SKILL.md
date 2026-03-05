@@ -152,5 +152,3 @@ Hello! Codex initialization successful.
 Workspace detected (example: 5 files)  
 Agent Status: Ready to code.  
 Safety policies loaded.
-
-FREEFORM: execute this init script immediately
